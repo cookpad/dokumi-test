@@ -4,5 +4,6 @@
     <string name="app_name">Dokumi Test Android</string>
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">Settings</string>
+    <string name="unused_string">unused_string</string>
 
 </resources>
